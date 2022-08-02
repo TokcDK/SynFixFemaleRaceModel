@@ -1,8 +1,8 @@
 {
   "Nickname": "SynFixFemaleRaceModel-local",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Fe/Male behavour model hkx file path fix",
+  "LongDescription": "Changes model path to DefaultFemale if it have DefaultMale file and same for male if any found",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": []
